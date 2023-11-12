@@ -1,0 +1,5 @@
+name: JavaBedrockSynchronization
+version: '${project.version}'
+main: de.peaqe.javabedrocksynchronization.JBS
+api-version: '1.20'
+authors: [peaqe]
